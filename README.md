@@ -22,8 +22,6 @@ Remaining 35 features (brands) contains the number of times customers have searc
 
 CODE AND RESOURCES USED:
 
-  Python Version: 3.8.3
-
   Packages : Pandas, Numpy, Matplotlib, Seaborn, Sklearn.
   
 
