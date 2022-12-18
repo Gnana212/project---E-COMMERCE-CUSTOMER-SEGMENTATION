@@ -19,6 +19,5 @@ CODE AND RESOURCES USED:
 
   Packages : Pandas, Numpy, Matplotlib, Seaborn, Sklearn.
   
-CONCLUSION:
-     In this project, i have Analyzed the existing customer data to get valuable insights about the purchase pattern . And, then i have done the Data pre-processing including missing value treatment .And after that i  Segmented the customer based on the optimum number of clusters (‘k’) by silhouette score 
+
 
