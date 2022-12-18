@@ -1,7 +1,7 @@
 # project---E-COMMERCE-CUSTOMER-SEGMENTATION - OVERVIEW
 
 
-Implementation of K Means clustering  to cluster customers with similar interest in given e-commerce data.
+Implementation of K Means clustering(Unsupervised-learning) to cluster customers with similar interest in given e-commerce data.
 
 
 In this project ,First  I have analyzed the existing customer data and got the valuable insights about the purchase pattern . Next , I am going to  pre-process the data  including missing value treatment . After that i have visualized the data and then i have  Segmented the  customer based on the optimum number of clusters (k) by silhouette score 
